@@ -9,7 +9,6 @@ export const pool = promise.createPool({
      user:'root',
      password: 'root',
      database:'tasksdb'
-
 })
 
  
